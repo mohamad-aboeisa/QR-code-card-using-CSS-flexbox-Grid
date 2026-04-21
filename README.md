@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![My solution preview.jpg]
+![](My solution preview.jpg)
 
 ### Links
 
@@ -56,7 +56,7 @@ I want to continue focusing on using CSS Grid, Flex-box and learn more about res
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/css_align.asp) - This helped me recap how to center a div. I really liked this pattern and will use it going forward.
+- [W3schools](https://www.w3schools.com/css/css_align.asp) - This website helped me recap how to center a div. I really liked this pattern and will use it going forward.
 
 ## Author
 
