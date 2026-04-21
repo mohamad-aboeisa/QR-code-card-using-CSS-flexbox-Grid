@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](My solution preview.jpg)
+![My solution preview.jpg]
 
 ### Links
 
@@ -62,4 +62,4 @@ I want to continue focusing on using CSS Grid, Flex-box and learn more about res
 
 - Linked in - [Mohamad Aboeisa](www.linkedin.com/in/mohamad-osama-aboeisa)
 - Frontend Mentor - [@mohamad-aboeisa](https://www.frontendmentor.io/profile/mohamad-aboeisa)
-"# QR-code-card-using-CSS-flexbox-Grid" 
+  "# QR-code-card-using-CSS-flexbox-Grid"
