@@ -60,6 +60,6 @@ I want to continue focusing on using CSS Grid, Flex-box and learn more about res
 
 ## Author
 
-- Linked in - [Mohamad Aboeisa](www.linkedin.com/in/mohamad-osama-aboeisa)
+- Linked in - [Mohamad Aboeisa](https://www.linkedin.com/in/mohamad-osama-aboeisa/)
 - Frontend Mentor - [@mohamad-aboeisa](https://www.frontendmentor.io/profile/mohamad-aboeisa)
   "# QR-code-card-using-CSS-flexbox-Grid"
