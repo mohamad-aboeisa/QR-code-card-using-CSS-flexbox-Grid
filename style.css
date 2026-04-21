@@ -1,15 +1,17 @@
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
 body {
   background: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
+  min-height: 100vh;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 .qr-card {
   background: hsl(0, 0%, 100%);
@@ -49,4 +51,12 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+/* Responsive */
+
+@media (max-width: 375px) {
+  .qr-card {
+    max-width: 90%;
+  }
 }
