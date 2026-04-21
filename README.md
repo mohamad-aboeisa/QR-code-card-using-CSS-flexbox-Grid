@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Soultion URL](https://www.frontendmentor.io/solutions/qr-code-card-using-css-flexbox-and-grid--G6yCyyPZM)
-- Live Site URL: [Live Site URL](https://mohamad-aboeisa.github.io/QR-code-card-using-CSS-flexbox-Grid/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/qr-code-card-using-css-flexbox-and-grid--G6yCyyPZM)
+- Live Site URL: [here](https://mohamad-aboeisa.github.io/QR-code-card-using-CSS-flexbox-Grid/)
 
 ## My process
 

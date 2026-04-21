@@ -18,7 +18,7 @@ body {
   text-align: center;
   padding: 15px;
   display: grid;
-  grid-template-columns: 300px;
+  grid-template-columns: min(90vw, 300px);
   row-gap: 20px;
   border-radius: 20px;
   -webkit-border-radius: 20px;
